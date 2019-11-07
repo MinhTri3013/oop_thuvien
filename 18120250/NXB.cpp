@@ -10,3 +10,7 @@ NXB::NXB()
 NXB::~NXB()
 {
 }
+
+void NXB::xoaSach()
+{
+}

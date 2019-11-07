@@ -12,6 +12,7 @@ private:
 public:
 	NXB();
 	~NXB();
+	void xoaSach();
 };
 
 #endif // !__NXB_H__
